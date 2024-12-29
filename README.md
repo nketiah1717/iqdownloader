@@ -10,7 +10,7 @@ This project allows you to download historical data from IQFeed for specified sy
 ## Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/your_username/iqdownloader.git
+   git clone https://github.com/nketiah1717/iqdownloader.git
    ```
 2. Navigate to the project directory:
    ```
