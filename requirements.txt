@@ -1,0 +1,8 @@
+# Requirements
+
+This project does not currently rely on any external Python libraries. However, if you plan to extend it, consider adding dependencies to this file. Examples include:
+
+```
+pandas>=1.3.5
+numpy>=1.21.0
+```
